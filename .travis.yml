@@ -9,7 +9,10 @@ branches:
 
 cache:
   directories:
-  - $HOME/.gradle
+    - $HOME/.gradle
+
+before_script:
+  - chmod +x gradlew
 
 script:
   - ./gradlew setupDecompWorkspace idea

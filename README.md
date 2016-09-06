@@ -17,7 +17,6 @@
 ```
 $ git clone https://github.com/Meadowcottage/Project-Container.git
 $ gradlew setupDecompWorkspace idea
-
 ```
 
 ## License

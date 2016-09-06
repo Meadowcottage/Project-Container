@@ -1,0 +1,14 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "projectcontainer:BlockContainer1x1",
+    "textures": {
+      "block": "projectcontainer:blocks/1x1/ContainerRed-1x1",
+      "particle":"projectcontainer:blocks/1x1/ContainerRed-1x1"
+    }
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

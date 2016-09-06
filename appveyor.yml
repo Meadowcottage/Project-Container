@@ -1,0 +1,9 @@
+version: "{build}"
+
+build_script:
+  - ./gradlew setupDecompWorkspace idea
+  - ./gradlew clean build
+
+cache:
+  - .gradle
+  - C:\Users\appveyor\.gradle

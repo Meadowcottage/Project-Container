@@ -2,9 +2,9 @@
 <img align="left" width="0" height="192px" hspace="10"/>
 
 # Project Container
-> Shipping container storage system for Minecraft :package:.
+> Shipping container storage system for Minecraft :package:
 
-[![Travis](https://img.shields.io/travis/Meadowcottage/Project-Container/master.svg?style=flat-square)](https://travis-ci.org/Meadowcottage/Project-Container) [![Appveyor](https://img.shields.io/appveyor/ci/meadowcottage/Project-Container.svg?style=flat-square)](https://ci.appveyor.com/project/Meadowcottage/Project-Container) [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=flat-square)](http://www.gnu.org/licenses/)
+[![Travis](https://img.shields.io/travis/Meadowcottage/Project-Container/master.svg?style=flat-square)](https://travis-ci.org/Meadowcottage/Project-Container) [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=flat-square)](http://www.gnu.org/licenses/)
 
 <br>
 <br>
@@ -17,6 +17,7 @@
 ```
 $ git clone https://github.com/Meadowcottage/Project-Container.git
 $ gradlew setupDecompWorkspace idea
+$ gradlew clean build
 ```
 
 ## License

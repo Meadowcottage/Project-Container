@@ -9,6 +9,10 @@
 <br>
 <br>
 
+# Screenshots
+
+[<img alt='3x6 Container' src="https://raw.githubusercontent.com/Meadowcottage/Project-Container/master/Screenshot.png">](https://minecraft.curseforge.com/projects/Project-Container)
+
 ## Downloads
 > Downloads can be found on the [Curse Forge](https://minecraft.curseforge.com/projects/Project-Container)
 

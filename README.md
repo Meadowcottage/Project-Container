@@ -11,7 +11,9 @@
 
 # Screenshots
 
-[<img alt='3x6 Container' src="https://raw.githubusercontent.com/Meadowcottage/Project-Container/master/Screenshot.png">](https://minecraft.curseforge.com/projects/Project-Container)
+[<img alt='1x1 Container Block' src="https://raw.githubusercontent.com/Meadowcottage/Project-Container/master/Screenshot-1.png">](https://minecraft.curseforge.com/projects/Project-Container)
+
+[<img alt='3x6 Container Multiblock' src="https://raw.githubusercontent.com/Meadowcottage/Project-Container/master/Screenshot-2.png">](https://minecraft.curseforge.com/projects/Project-Container)
 
 ## Downloads
 > Downloads can be found on the [Curse Forge](https://minecraft.curseforge.com/projects/Project-Container)

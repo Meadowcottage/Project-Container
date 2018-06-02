@@ -11,21 +11,19 @@ buildscript {
         classpath 'net.minecraftforge.gradle:ForgeGradle:2.2-SNAPSHOT'
     }
 }
+
+apply plugin: 'java'
+apply plugin: 'maven'
 apply plugin: 'net.minecraftforge.gradle.forge'
 
-version = "1.0.1"
-group= "uk.meadowcottage.projectcontainer"
-archivesBaseName = "projectcontainer"
-
-sourceCompatibility = targetCompatibility = "1.6" // Need this here so eclipse task generates correctly.
-compileJava {
-    sourceCompatibility = targetCompatibility = "1.6"
-}
+version = minecraft_version + "-" + mod_version
+group = mod_group
+archivesBaseName = mod_archives_basename
 
 minecraft {
-    version = "1.10.2-12.18.1.2076"
+    version = minecraft_version + "-" + forge_version
     runDir = "../run"
-    mappings = "snapshot_20160518"
+    mappings = mcp_mappings_version
 }
 
 dependencies {}

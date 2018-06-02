@@ -1,16 +1,16 @@
 [
-{
-  "modid": "projectcontainer",
-  "name": "Project Container",
-  "description": "A project dedicated to adding shipping containers to the game",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["Meadowcottage"],
-  "credits": "",
-  "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
-}
+  {
+    "modid": "projectcontainer",
+    "name": "Project Container",
+    "description": "Simple mod that adds shipping containers",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["NURO"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
 ]

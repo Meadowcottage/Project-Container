@@ -1,13 +1,14 @@
-package uk.meadowcottage.projectcontainer;
+package sh.nuro.projectcontainer;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
-import uk.meadowcottage.projectcontainer.proxy.CommonProxy;
-import uk.meadowcottage.projectcontainer.util.LogHelper;
-import uk.meadowcottage.projectcontainer.util.Reference;
+
+import sh.nuro.projectcontainer.proxy.CommonProxy;
+import sh.nuro.projectcontainer.util.LogHelper;
+import sh.nuro.projectcontainer.util.Reference;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.MOD_VERSION)
 public class Projectcontainer
@@ -25,18 +26,12 @@ public class Projectcontainer
         proxy.preinit(event);
     }
 
-    /**
-     *	Mod  init
-     */
     @Mod.EventHandler
     public void init(FMLInitializationEvent event)
     {
         LogHelper.info("Init");
     }
 
-    /**
-     *	Mod  Post init
-     */
     @Mod.EventHandler
     public void postinit(FMLPostInitializationEvent event)
     {

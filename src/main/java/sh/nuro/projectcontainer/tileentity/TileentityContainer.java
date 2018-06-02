@@ -1,4 +1,4 @@
-package uk.meadowcottage.projectcontainer.tileentity;
+package sh.nuro.projectcontainer.tileentity;
 
 import net.minecraft.tileentity.TileEntity;
 

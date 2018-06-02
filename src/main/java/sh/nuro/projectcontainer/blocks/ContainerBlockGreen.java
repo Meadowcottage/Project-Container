@@ -1,7 +1,7 @@
-package uk.meadowcottage.projectcontainer.blocks;
+package sh.nuro.projectcontainer.blocks;
 
 import net.minecraftforge.fml.common.registry.GameRegistry;
-import uk.meadowcottage.projectcontainer.util.Reference;
+import sh.nuro.projectcontainer.util.Reference;
 
 public class ContainerBlockGreen extends ContainerBlockDefault
 {

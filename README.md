@@ -9,16 +9,9 @@
 
 [![License](https://img.shields.io/badge/license-mit-blue.svg?longCache=true&style=for-the-badge)](http://www.gnu.org/licenses/) [![gitmoji](https://img.shields.io/badge/gitmoji-%20%F0%9F%98%9C%20%F0%9F%98%8D-FFDD67.svg?longCache=true&style=for-the-badge)](https://gitmoji.carloscuesta.me/) [![curse](https://img.shields.io/badge/curse-download-f26122.svg?longCache=true&style=for-the-badge)](https://minecraft.curseforge.com/projects/Project-Container)
 
-</div>
-
-<br />
-
-# Screenshots
-
 <img alt='Container Block' width="512px" src="https://github.com/NuroDev/project-container/blob/master/screenshot.png?raw=true" />
 
-## Downloads
-> Downloads can be found on the [Curse Forge](https://minecraft.curseforge.com/projects/Project-Container)
+</div>
 
 ## Development
 
